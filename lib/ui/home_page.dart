@@ -4,6 +4,7 @@ import 'package:agenda_contatos/helpers/contact_helper.dart';
 import 'package:agenda_contatos/ui/contact_page.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:image_picker/image_picker.dart';
 
 class HomePage extends StatefulWidget {
   @override
